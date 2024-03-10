@@ -31,6 +31,7 @@ Set virtual environment, and use pip to install libraries in command prompt.
         2. Run the executable file downloaded, and install the "GPL Ghostscript" in ``` Lib\site-packages ``` in the virtual environment.  
         <img src= "../Markdown Picture/1.Table Extraction/image-2.png" width=700>  
         <img src= "../Markdown Picture/1.Table Extraction/image-3.png" width=700>  
+        
         3. Check DLL file (eg. Windows 64bit : File gsdll64.dll below)  
         <img src= "../Markdown Picture/1.Table Extraction/image-1.png" width=700>  
 
